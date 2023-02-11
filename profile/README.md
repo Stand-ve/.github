@@ -1,6 +1,4 @@
 ## Stand Dev Team 👋
 
-<!--
 
-**Bienvenido a Stand Dev Team Venezuela**
--->
+**Bienvenidos a Stand Dev Team Venezuela**
